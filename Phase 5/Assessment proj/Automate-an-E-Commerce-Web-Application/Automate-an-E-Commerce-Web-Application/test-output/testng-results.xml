@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="159961" started-at="2022-10-18T12:46:28 IST" finished-at="2022-10-18T12:49:08 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="159961" started-at="2022-10-18T12:46:28 IST" finished-at="2022-10-18T12:49:08 IST">
+      <class name="com.test.flipkart">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.flipkart@1990a65e]" name="beforeClass" is-config="true" duration-ms="2624" started-at="2022-10-18T12:46:28 IST" finished-at="2022-10-18T12:46:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="beforeMethod" is-config="true" duration-ms="139" started-at="2022-10-18T12:46:31 IST" finished-at="2022-10-18T12:46:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loadTime()[pri:1, instance:com.test.flipkart@1990a65e]" name="loadTime" duration-ms="47004" started-at="2022-10-18T12:46:31 IST" finished-at="2022-10-18T12:47:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTime -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-10-18T12:47:18 IST" finished-at="2022-10-18T12:47:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="beforeMethod" is-config="true" duration-ms="17" started-at="2022-10-18T12:47:18 IST" finished-at="2022-10-18T12:47:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="search()[pri:2, instance:com.test.flipkart@1990a65e]" name="search" duration-ms="1868" started-at="2022-10-18T12:47:18 IST" finished-at="2022-10-18T12:47:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-10-18T12:47:20 IST" finished-at="2022-10-18T12:47:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="beforeMethod" is-config="true" duration-ms="13" started-at="2022-10-18T12:47:20 IST" finished-at="2022-10-18T12:47:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="scroll()[pri:3, instance:com.test.flipkart@1990a65e]" name="scroll" duration-ms="2801" started-at="2022-10-18T12:47:20 IST" finished-at="2022-10-18T12:47:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-10-18T12:47:22 IST" finished-at="2022-10-18T12:47:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="beforeMethod" is-config="true" duration-ms="23" started-at="2022-10-18T12:47:22 IST" finished-at="2022-10-18T12:47:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="contentRefresh()[pri:4, instance:com.test.flipkart@1990a65e]" name="contentRefresh" duration-ms="9515" started-at="2022-10-18T12:47:23 IST" finished-at="2022-10-18T12:47:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contentRefresh -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-10-18T12:47:32 IST" finished-at="2022-10-18T12:47:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="beforeMethod" is-config="true" duration-ms="13" started-at="2022-10-18T12:47:32 IST" finished-at="2022-10-18T12:47:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="imageDisplay()[pri:5, instance:com.test.flipkart@1990a65e]" name="imageDisplay" duration-ms="7247" started-at="2022-10-18T12:47:32 IST" finished-at="2022-10-18T12:47:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imageDisplay -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-10-18T12:47:39 IST" finished-at="2022-10-18T12:47:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="beforeMethod" is-config="true" duration-ms="11" started-at="2022-10-18T12:47:39 IST" finished-at="2022-10-18T12:47:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="bottomScroll()[pri:6, instance:com.test.flipkart@1990a65e]" name="bottomScroll" duration-ms="7115" started-at="2022-10-18T12:47:39 IST" finished-at="2022-10-18T12:47:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bottomScroll -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-10-18T12:47:46 IST" finished-at="2022-10-18T12:47:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="beforeMethod" is-config="true" duration-ms="27" started-at="2022-10-18T12:47:46 IST" finished-at="2022-10-18T12:47:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="imgHeight()[pri:7, instance:com.test.flipkart@1990a65e]" name="imgHeight" duration-ms="1446" started-at="2022-10-18T12:47:46 IST" finished-at="2022-10-18T12:47:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imgHeight -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-10-18T12:47:48 IST" finished-at="2022-10-18T12:47:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="beforeMethod" is-config="true" duration-ms="14" started-at="2022-10-18T12:47:48 IST" finished-at="2022-10-18T12:47:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="diffBrowChrome()[pri:8, instance:com.test.flipkart@1990a65e]" name="diffBrowChrome" duration-ms="1455" started-at="2022-10-18T12:47:48 IST" finished-at="2022-10-18T12:47:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- diffBrowChrome -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-10-18T12:47:49 IST" finished-at="2022-10-18T12:47:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="beforeMethod" is-config="true" duration-ms="142" started-at="2022-10-18T12:47:49 IST" finished-at="2022-10-18T12:47:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="diffBrowEdge()[pri:9, instance:com.test.flipkart@1990a65e]" name="diffBrowEdge" duration-ms="78397" started-at="2022-10-18T12:47:50 IST" finished-at="2022-10-18T12:49:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- diffBrowEdge -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.flipkart@1990a65e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-10-18T12:49:08 IST" finished-at="2022-10-18T12:49:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.test.flipkart@1990a65e]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-10-18T12:49:08 IST" finished-at="2022-10-18T12:49:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.test.flipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
